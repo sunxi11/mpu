@@ -1,0 +1,64 @@
+###############cm################
+sketch_cm_1: avg throughout = 11440686, avg cycle = 161
+sketch_cm_2: avg throughout = 6570731, avg cycle = 283
+sketch_cm_3: avg throughout = 3279670, avg cycle = 569
+sketch_cm_4: avg throughout = 2458690, avg cycle = 761
+sketch_cm_5: avg throughout = 1933974, avg cycle = 970
+sketch_cm_6: avg throughout = 1580991, avg cycle = 1179
+sketch_cm_7: avg throughout = 1321122, avg cycle = 1411
+sketch_cm_8: avg throughout = 1136243, avg cycle = 1644
+###############cs################
+sketch_cs_1: avg throughout = 8802744, avg cycle = 210
+sketch_cs_2: avg throughout = 4420701, avg cycle = 420
+sketch_cs_3: avg throughout = 2973339, avg cycle = 633
+sketch_cs_4: avg throughout = 2201998, avg cycle = 851
+sketch_cs_5: avg throughout = 1743913, avg cycle = 1061
+sketch_cs_6: avg throughout = 1422713, avg cycle = 1315
+sketch_cs_7: avg throughout = 1195868, avg cycle = 1560
+sketch_cs_8: avg throughout = 1027428, avg cycle = 1816
+###############cbf################
+sketch_cbf_1: avg throughout = 8378362, avg cycle = 221
+sketch_cbf_2: avg throughout = 4927274, avg cycle = 376
+sketch_cbf_3: avg throughout = 3714314, avg cycle = 497
+sketch_cbf_4: avg throughout = 2840851, avg cycle = 649
+sketch_cbf_5: avg throughout = 2273601, avg cycle = 819
+sketch_cbf_6: avg throughout = 1891297, avg cycle = 974
+sketch_cbf_7: avg throughout = 1611225, avg cycle = 1155
+sketch_cbf_8: avg throughout = 1410392, avg cycle = 1320
+###############es################
+sketch_es_1: avg throughout = 1991680, avg cycle = 981
+sketch_es_2: avg throughout = 1223887, avg cycle = 1533
+sketch_es_3: avg throughout = 805366, avg cycle = 2306
+sketch_es_4: avg throughout = 602394, avg cycle = 3111
+sketch_es_5: avg throughout = 479709, avg cycle = 3897
+sketch_es_6: avg throughout = 404360, avg cycle = 4359
+###############fr################
+sketch_fr_1: avg throughout = 3265928, avg cycle = 571
+sketch_fr_2: avg throughout = 1713437, avg cycle = 1088
+sketch_fr_3: avg throughout = 1177495, avg cycle = 1573
+sketch_fr_4: avg throughout = 907072, avg cycle = 2065
+sketch_fr_5: avg throughout = 730213, avg cycle = 2559
+sketch_fr_6: avg throughout = 605058, avg cycle = 3095
+sketch_fr_7: avg throughout = 523681, avg cycle = 3569
+sketch_fr_8: avg throughout = 458740, avg cycle = 4020
+###############nitro################
+sketch_nitro_1: avg throughout = 2462026, avg cycle = 758
+sketch_nitro_2: avg throughout = 1245213, avg cycle = 1490
+sketch_nitro_3: avg throughout = 840125, avg cycle = 2222
+sketch_nitro_4: avg throughout = 624991, avg cycle = 2994
+sketch_nitro_5: avg throughout = 497985, avg cycle = 3754
+sketch_nitro_6: avg throughout = 417240, avg cycle = 4402
+###############um################
+sketch_um_1: avg throughout = 10990940, avg cycle = 168
+sketch_um_2: avg throughout = 6846005, avg cycle = 270
+sketch_um_3: avg throughout = 4953535, avg cycle = 375
+sketch_um_4: avg throughout = 3848021, avg cycle = 482
+sketch_um_5: avg throughout = 3132022, avg cycle = 592
+sketch_um_6: avg throughout = 2641163, avg cycle = 703
+sketch_um_7: avg throughout = 2281091, avg cycle = 812
+sketch_um_8: avg throughout = 2009041, avg cycle = 924
+###############skv################
+sketch_skv_1: avg throughout = 3426113, avg cycle = 817
+sketch_skv_2: avg throughout = 1826951, avg cycle = 1279
+sketch_skv_3: avg throughout = 1267850, avg cycle = 1902
+sketch_skv_4: avg throughout = 982607, avg cycle = 2513

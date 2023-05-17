@@ -1,0 +1,71 @@
+#########repead 2
+es core 2: avg throughout = 451970, avg cycle = 951
+es core 3: avg throughout = 647454, avg cycle = 991
+es core 4: avg throughout = 1013436, avg cycle = 794
+es core 5: avg throughout = 1231990, avg cycle = 817
+es core 6: avg throughout = 1418131, avg cycle = 854
+es core 7: avg throughout = 1639641, avg cycle = 935
+es core 8: avg throughout = 1854786, avg cycle = 1007
+###############3################
+es core 2: avg throughout = 428356, avg cycle = 938
+es core 3: avg throughout = 619816, avg cycle = 973
+es core 4: avg throughout = 783564, avg cycle = 1026
+es core 5: avg throughout = 950261, avg cycle = 1059
+es core 6: avg throughout = 1098417, avg cycle = 1109
+es core 7: avg throughout = 1271166, avg cycle = 1209
+es core 8: avg throughout = 1440514, avg cycle = 1302
+###############4################
+es core 2: avg throughout = 344580, avg cycle = 1166
+es core 3: avg throughout = 499076, avg cycle = 1208
+es core 4: avg throughout = 635486, avg cycle = 1266
+es core 5: avg throughout = 773566, avg cycle = 1301
+es core 6: avg throughout = 895515, avg cycle = 1358
+es core 7: avg throughout = 1039017, avg cycle = 1451
+es core 8: avg throughout = 1174543, avg cycle = 1607
+###############5################
+es core 2: avg throughout = 288197, avg cycle = 1394
+es core 3: avg throughout = 421070, avg cycle = 1432
+es core 4: avg throughout = 537953, avg cycle = 1495
+es core 5: avg throughout = 654156, avg cycle = 1538
+es core 6: avg throughout = 757307, avg cycle = 1605
+es core 7: avg throughout = 878831, avg cycle = 1740
+###############6################
+es core 2: avg throughout = 248392, avg cycle = 1618
+es core 3: avg throughout = 362549, avg cycle = 1664
+es core 4: avg throughout = 463959, avg cycle = 1734
+es core 5: avg throughout = 566462, avg cycle = 1776
+es core 6: avg throughout = 657247, avg cycle = 1849
+es core 7: avg throughout = 762598, avg cycle = 1994
+es core 8: avg throughout = 863707, avg cycle = 2169
+###############7################
+es core 2: avg throughout = 218094, avg cycle = 1842
+es core 3: avg throughout = 320819, avg cycle = 1880
+es core 4: avg throughout = 409886, avg cycle = 1962
+es core 5: avg throughout = 502398, avg cycle = 2002
+es core 6: avg throughout = 579744, avg cycle = 2095
+es core 7: avg throughout = 673773, avg cycle = 2258
+es core 8: avg throughout = 762634, avg cycle = 2454
+###############8################
+es core 2: avg throughout = 194711, avg cycle = 2064
+es core 3: avg throughout = 286082, avg cycle = 2108
+es core 4: avg throughout = 366456, avg cycle = 2195
+es core 5: avg throughout = 447806, avg cycle = 2247
+es core 6: avg throughout = 520063, avg cycle = 2331
+es core 7: avg throughout = 603861, avg cycle = 2526
+es core 8: avg throughout = 685399, avg cycle = 2729
+###############9################
+es core 2: avg throughout = 175872, avg cycle = 2285
+es core 3: avg throughout = 258622, avg cycle = 2331
+es core 4: avg throughout = 333335, avg cycle = 2412
+es core 5: avg throughout = 406980, avg cycle = 2472
+es core 6: avg throughout = 472477, avg cycle = 2569
+es core 7: avg throughout = 547480, avg cycle = 2795
+es core 8: avg throughout = 621593, avg cycle = 3013
+###############10################
+es core 2: avg throughout = 159532, avg cycle = 2519
+es core 3: avg throughout = 236637, avg cycle = 2549
+es core 4: avg throughout = 303520, avg cycle = 2650
+es core 5: avg throughout = 370929, avg cycle = 2711
+es core 6: avg throughout = 429905, avg cycle = 2823
+es core 7: avg throughout = 499512, avg cycle = 3064
+es core 8: avg throughout = 565946, avg cycle = 3307

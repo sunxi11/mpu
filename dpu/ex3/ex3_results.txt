@@ -1,0 +1,8 @@
+1: avg throughout = 9773557, avg cycle = 189
+2: avg throughout = 4679804, avg cycle = 396
+3: avg throughout = 2284196, avg cycle = 813
+4: avg throughout = 1182953, avg cycle = 1581
+5: avg throughout = 905279, avg cycle = 2057
+6: avg throughout = 696439, avg cycle = 2790
+7: avg throughout = 631840, avg cycle = 3066
+8: avg throughout = 519601, avg cycle = 3678

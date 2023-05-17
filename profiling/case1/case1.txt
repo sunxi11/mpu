@@ -1,0 +1,40 @@
+############################################################ cm2 ########
+cmsketch core 2: avg throughout = 8077278, avg cycle = 49
+cmsketch core 3: avg throughout = 12055609, avg cycle = 49
+cmsketch core 4: avg throughout = 15881516, avg cycle = 50
+cmsketch core 5: avg throughout = 19596741, avg cycle = 50
+cmsketch core 6: avg throughout = 23226407, avg cycle = 51
+cmsketch core 7: avg throughout = 23602060, avg cycle = 63
+cmsketch core 8: avg throughout = 23647001, avg cycle = 78
+############################################################ cm4 ########
+cmsketch core 2: avg throughout = 5393024, avg cycle = 74
+cmsketch core 3: avg throughout = 8082854, avg cycle = 74
+cmsketch core 4: avg throughout = 10678216, avg cycle = 74
+cmsketch core 5: avg throughout = 13185389, avg cycle = 75
+cmsketch core 6: avg throughout = 15667486, avg cycle = 76
+cmsketch core 7: avg throughout = 18106251, avg cycle = 83
+cmsketch core 8: avg throughout = 20538307, avg cycle = 89
+############################################################ cm6 ########
+cmsketch core 2: avg throughout = 4046667, avg cycle = 98
+cmsketch core 3: avg throughout = 6073401, avg cycle = 98
+cmsketch core 4: avg throughout = 8043207, avg cycle = 99
+cmsketch core 5: avg throughout = 9972784, avg cycle = 100
+cmsketch core 6: avg throughout = 11874365, avg cycle = 101
+cmsketch core 7: avg throughout = 13682228, avg cycle = 110
+cmsketch core 8: avg throughout = 15609508, avg cycle = 118
+############################################################ cm8 ########
+cmsketch core 2: avg throughout = 3242944, avg cycle = 123
+cmsketch core 3: avg throughout = 4866612, avg cycle = 123
+cmsketch core 4: avg throughout = 6463760, avg cycle = 123
+cmsketch core 5: avg throughout = 8020352, avg cycle = 124
+cmsketch core 6: avg throughout = 9565805, avg cycle = 125
+cmsketch core 7: avg throughout = 11087913, avg cycle = 135
+cmsketch core 8: avg throughout = 12622199, avg cycle = 147
+############################################################ cm10 ########
+cmsketch core 2: avg throughout = 2682277, avg cycle = 149
+cmsketch core 3: avg throughout = 4020841, avg cycle = 149
+cmsketch core 4: avg throughout = 5352091, avg cycle = 149
+cmsketch core 5: avg throughout = 6659387, avg cycle = 150
+cmsketch core 6: avg throughout = 7967178, avg cycle = 150
+cmsketch core 7: avg throughout = 9241921, avg cycle = 163
+cmsketch core 8: avg throughout = 10523388, avg cycle = 175

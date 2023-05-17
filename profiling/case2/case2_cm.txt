@@ -1,0 +1,97 @@
+###############m2################
+cmsketch core 2: avg throughout = 2889057, avg cycle = 138
+cmsketch core 3: avg throughout = 3987734, avg cycle = 150
+cmsketch core 4: avg throughout = 5207625, avg cycle = 153
+cmsketch core 5: avg throughout = 6187997, avg cycle = 161
+cmsketch core 6: avg throughout = 7229258, avg cycle = 167
+cmsketch core 7: avg throughout = 8248400, avg cycle = 183
+cmsketch core 8: avg throughout = 9389242, avg cycle = 196
+###############m3################
+cmsketch core 2: avg throughout = 2623807, avg cycle = 152
+cmsketch core 3: avg throughout = 3505718, avg cycle = 171
+cmsketch core 4: avg throughout = 4669137, avg cycle = 171
+cmsketch core 5: avg throughout = 5643473, avg cycle = 177
+cmsketch core 6: avg throughout = 6602187, avg cycle = 183
+cmsketch core 7: avg throughout = 7594127, avg cycle = 199
+cmsketch core 8: avg throughout = 8542716, avg cycle = 216
+###############m4################
+cmsketch core 2: avg throughout = 2330483, avg cycle = 171
+cmsketch core 3: avg throughout = 3154589, avg cycle = 190
+cmsketch core 4: avg throughout = 3964114, avg cycle = 201
+cmsketch core 5: avg throughout = 4803133, avg cycle = 208
+cmsketch core 6: avg throughout = 5618819, avg cycle = 215
+###############10################
+cmsketch core 2: avg throughout = 1515046, avg cycle = 264
+cmsketch core 3: avg throughout = 1963141, avg cycle = 308
+cmsketch core 4: avg throughout = 2439776, avg cycle = 328
+cmsketch core 5: avg throughout = 2815301, avg cycle = 356
+cmsketch core 6: avg throughout = 3238878, avg cycle = 373
+cmsketch core 7: avg throughout = 3695774, avg cycle = 411
+cmsketch core 8: avg throughout = 4189977, avg cycle = 444
+###############20################
+cmsketch core 2: avg throughout = 1139259, avg cycle = 351
+cmsketch core 3: avg throughout = 1217983, avg cycle = 503
+cmsketch core 4: avg throughout = 1451715, avg cycle = 552
+cmsketch core 5: avg throughout = 1652548, avg cycle = 608
+cmsketch core 6: avg throughout = 1899135, avg cycle = 637
+cmsketch core 7: avg throughout = 2148451, avg cycle = 707
+cmsketch core 8: avg throughout = 2435118, avg cycle = 760
+###############30################
+cmsketch core 2: avg throughout = 1005963, avg cycle = 398
+cmsketch core 3: avg throughout = 919132, avg cycle = 673
+cmsketch core 4: avg throughout = 1033288, avg cycle = 776
+cmsketch core 5: avg throughout = 1171547, avg cycle = 857
+cmsketch core 6: avg throughout = 1341604, avg cycle = 904
+cmsketch core 7: avg throughout = 1530412, avg cycle = 982
+cmsketch core 8: avg throughout = 1723084, avg cycle = 1064
+###############40################
+cmsketch core 2: avg throughout = 756517, avg cycle = 530
+cmsketch core 3: avg throughout = 700194, avg cycle = 870
+cmsketch core 4: avg throughout = 808196, avg cycle = 992
+cmsketch core 5: avg throughout = 908318, avg cycle = 1106
+cmsketch core 6: avg throughout = 1041213, avg cycle = 1164
+cmsketch core 7: avg throughout = 1177727, avg cycle = 1294
+cmsketch core 8: avg throughout = 1330776, avg cycle = 1391
+###############50################
+cmsketch core 2: avg throughout = 525039, avg cycle = 763
+###############50################
+cmsketch core 2: avg throughout = 599714, avg cycle = 669
+cmsketch core 3: avg throughout = 614614, avg cycle = 1005
+cmsketch core 4: avg throughout = 657265, avg cycle = 1220
+cmsketch core 5: avg throughout = 740309, avg cycle = 1356
+cmsketch core 6: avg throughout = 850164, avg cycle = 1419
+cmsketch core 7: avg throughout = 959743, avg cycle = 1587
+cmsketch core 8: avg throughout = 1083068, avg cycle = 1582
+###############60################
+cmsketch core 2: avg throughout = 635905, avg cycle = 630
+cmsketch core 3: avg throughout = 512717, avg cycle = 1225
+cmsketch core 4: avg throughout = 556231, avg cycle = 1442
+cmsketch core 5: avg throughout = 620330, avg cycle = 1619
+cmsketch core 6: avg throughout = 699881, avg cycle = 1724
+cmsketch core 7: avg throughout = 791208, avg cycle = 1911
+cmsketch core 8: avg throughout = 888445, avg cycle = 1956
+###############70################
+cmsketch core 2: avg throughout = 552066, avg cycle = 726
+cmsketch core 3: avg throughout = 497921, avg cycle = 1277
+cmsketch core 4: avg throughout = 535087, avg cycle = 1499
+cmsketch core 5: avg throughout = 605370, avg cycle = 1657
+cmsketch core 6: avg throughout = 671935, avg cycle = 1802
+cmsketch core 7: avg throughout = 763544, avg cycle = 1985
+###############80################
+cmsketch core 2: avg throughout = 497330, avg cycle = 806
+cmsketch core 3: avg throughout = 534196, avg cycle = 1127
+cmsketch core 4: avg throughout = 515555, avg cycle = 1556
+cmsketch core 5: avg throughout = 573746, avg cycle = 1751
+cmsketch core 6: avg throughout = 651728, avg cycle = 1856
+###############90################
+cmsketch core 2: avg throughout = 416415, avg cycle = 963
+cmsketch core 3: avg throughout = 447689, avg cycle = 1391
+cmsketch core 4: avg throughout = 491633, avg cycle = 1632
+cmsketch core 5: avg throughout = 564810, avg cycle = 1776
+cmsketch core 6: avg throughout = 632708, avg cycle = 1912
+cmsketch core 7: avg throughout = 719075, avg cycle = 2004
+###############100################
+cmsketch core 2: avg throughout = 453214, avg cycle = 885
+cmsketch core 3: avg throughout = 423398, avg cycle = 1462
+cmsketch core 4: avg throughout = 482461, avg cycle = 1663
+cmsketch core 6: avg throughout = 614980, avg cycle = 1968
