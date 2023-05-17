@@ -1,0 +1,23 @@
+count-min_2.py
+Reading dropcount
+========
+count-min_2.py
+Reading dropcount
+0: 7870483 pkt/s
+0: 1591931 pkt/s
+0: 1583969 pkt/s
+0: 1594318 pkt/s
+0: 1583037 pkt/s
+0: 1576346 pkt/s
+0: 3067014 pkt/s
+0: 3147238 pkt/s
+0: 3156327 pkt/s
+0: 3147634 pkt/s
+0: 3143215 pkt/s
+0: 3091304 pkt/s
+0: 3131848 pkt/s
+0: 3192508 pkt/s
+0: 3156271 pkt/s
+7870483
+Removing filter from device
+========

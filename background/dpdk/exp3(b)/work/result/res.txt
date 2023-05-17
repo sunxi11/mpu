@@ -1,0 +1,8 @@
+1 cores:8:  cycle:612  throughput 23441006
+2 cores:8:  cycle:612  throughput 23441303
+3 cores:8:  cycle:612  throughput 23440925
+4 cores:8:  cycle:677  throughput 21377270
+5 cores:8:  cycle:1192  throughput 12087712
+6 cores:8:  cycle:2433  throughput 5929913
+7 cores:8:  cycle:2632  throughput 5479373
+8 cores:8:  cycle:2715  throughput 5316518

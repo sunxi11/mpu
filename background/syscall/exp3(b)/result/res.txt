@@ -1,0 +1,16 @@
+1   cycles:6342.4  throughput:480045
+
+2   cycles:8813.0  throughput:287646
+
+3   cycles:11840.4  throughput:184419
+
+4   cycles:12163.6  throughput:179049
+
+5   cycles:13787.0  throughput:153582
+
+6   cycles:15435.6  throughput:134761
+
+7   cycles:15318.4  throughput:135660
+
+8   cycles:17875.8  throughput:113602
+

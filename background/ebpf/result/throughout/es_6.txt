@@ -1,0 +1,20 @@
+es_6.py
+Reading dropcount
+0: 9953272 pkt/s
+0: 1964216 pkt/s
+0: 1969542 pkt/s
+0: 1971424 pkt/s
+0: 1985451 pkt/s
+0: 1971050 pkt/s
+0: 4772850 pkt/s
+0: 4908269 pkt/s
+0: 4969431 pkt/s
+0: 5034417 pkt/s
+0: 5016035 pkt/s
+0: 5029989 pkt/s
+0: 5021927 pkt/s
+0: 5020488 pkt/s
+0: 4983798 pkt/s
+9953272
+Removing filter from device
+========

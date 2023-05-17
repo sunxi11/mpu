@@ -1,0 +1,20 @@
+nitrosketch_5.py
+Reading dropcount
+0: 5408136 pkt/s
+0: 1088052 pkt/s
+0: 1067803 pkt/s
+0: 1083192 pkt/s
+0: 1087247 pkt/s
+0: 1083448 pkt/s
+0: 1503500 pkt/s
+0: 1597626 pkt/s
+0: 1610826 pkt/s
+0: 1603803 pkt/s
+0: 1620410 pkt/s
+0: 1607429 pkt/s
+0: 1601638 pkt/s
+0: 1614931 pkt/s
+0: 1617883 pkt/s
+5408136
+Removing filter from device
+========

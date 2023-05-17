@@ -1,0 +1,20 @@
+flowradar_7.py
+Reading dropcount
+0: 8414657 pkt/s
+0: 1678231 pkt/s
+0: 1672060 pkt/s
+0: 1664792 pkt/s
+0: 1672983 pkt/s
+0: 1660330 pkt/s
+0: 3393265 pkt/s
+0: 3552653 pkt/s
+0: 3540340 pkt/s
+0: 3557618 pkt/s
+0: 3543054 pkt/s
+0: 3532710 pkt/s
+0: 3518188 pkt/s
+0: 3509619 pkt/s
+0: 3516541 pkt/s
+8414657
+Removing filter from device
+========

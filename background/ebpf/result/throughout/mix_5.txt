@@ -1,0 +1,20 @@
+mix_5.py
+Reading dropcount
+0: 6738084 pkt/s
+0: 1319971 pkt/s
+0: 1329210 pkt/s
+0: 1330985 pkt/s
+0: 1341761 pkt/s
+0: 1358592 pkt/s
+0: 2233590 pkt/s
+0: 2309506 pkt/s
+0: 2342252 pkt/s
+0: 2351141 pkt/s
+0: 2318713 pkt/s
+0: 2318377 pkt/s
+0: 2361090 pkt/s
+0: 2351878 pkt/s
+0: 2347007 pkt/s
+6738084
+Removing filter from device
+========

@@ -1,0 +1,18 @@
+Reading dropcount
+0: 6417704 pkt/s
+0: 1316439 pkt/s
+0: 1304449 pkt/s
+0: 1300544 pkt/s
+0: 1290396 pkt/s
+0: 1285634 pkt/s
+0: 2054675 pkt/s
+0: 1964207 pkt/s
+0: 2098856 pkt/s
+0: 2097566 pkt/s
+0: 2109770 pkt/s
+0: 2118599 pkt/s
+0: 2110807 pkt/s
+0: 2134345 pkt/s
+0: 2125212 pkt/s
+6417704
+Removing filter from device

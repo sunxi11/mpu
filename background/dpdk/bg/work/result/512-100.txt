@@ -1,0 +1,104 @@
+./nitro cores:1:  cycle:325  throughoutput 5512717
+./nitro cores:2:  cycle:367  throughoutput 10099166
+./nitro cores:3:  cycle:523  throughoutput 10610781
+./nitro cores:4:  cycle:738  throughoutput 9728048
+./nitro cores:5:  cycle:963  throughoutput 9527933
+./nitro cores:6:  cycle:1135  throughoutput 9509332
+./nitro cores:7:  cycle:1290  throughoutput 9786501
+./nitro cores:8:  cycle:4900  throughoutput 3238927
+./nitro cores:9:  cycle:1630  throughoutput 9964489
+./nitro cores:10:  cycle:1764  throughoutput 10177623
+./um cores:1:  cycle:413  throughoutput 4338906
+./um cores:2:  cycle:545  throughoutput 6796977
+./um cores:3:  cycle:607  throughoutput 8939175
+./um cores:4:  cycle:618  throughoutput 11820036
+./um cores:5:  cycle:646  throughoutput 14031815
+./um cores:6:  cycle:650  throughoutput 16841235
+./um cores:7:  cycle:675  throughoutput 18828102
+./um cores:8:  cycle:692  throughoutput 20981669
+./um cores:9:  cycle:742  throughoutput 21847024
+./um cores:10:  cycle:779  throughoutput 23044550
+./skv2 cores:1:  cycle:856  throughoutput 2097270
+./skv2 cores:2:  cycle:932  throughoutput 3859097
+./skv2 cores:3:  cycle:984  throughoutput 5497047
+./skv2 cores:4:  cycle:1034  throughoutput 6971999
+./skv2 cores:5:  cycle:1065  throughoutput 8471955
+./skv2 cores:6:  cycle:1089  throughoutput 9949366
+./skv2 cores:7:  cycle:1133  throughoutput 11177079
+./skv2 cores:8:  cycle:1191  throughoutput 12169066
+./skv2 cores:9:  cycle:1239  throughoutput 13224287
+./skv2 cores:10:  cycle:1302  throughoutput 13990686
+./fr cores:1:  cycle:351  throughoutput 5108061
+./fr cores:2:  cycle:301  throughoutput 12361148
+./fr cores:3:  cycle:334  throughoutput 16972908
+./fr cores:4:  cycle:347  throughoutput 20899292
+./fr cores:5:  cycle:395  throughoutput 22708345
+./fr cores:6:  cycle:459  throughoutput 23437907
+./fr cores:7:  cycle:535  throughoutput 23471280
+./fr cores:8:  cycle:611  throughoutput 23483350
+./fr cores:9:  cycle:687  throughoutput 23488260
+./fr cores:10:  cycle:764  throughoutput 23466955
+
+
+
+
+
+
+./es cores:1:  cycle:327  throughoutput 5488858
+./es cores:2:  cycle:270  throughoutput 13979747
+./es cores:3:  cycle:310  throughoutput 17986242
+./es cores:4:  cycle:332  throughoutput 21716534
+./es cores:5:  cycle:382  throughoutput 23449379
+./es cores:6:  cycle:458  throughoutput 23465754
+./es cores:7:  cycle:535  throughoutput 23480149
+./es cores:8:  cycle:611  throughoutput 23483992
+./es cores:9:  cycle:687  throughoutput 23484967
+./es cores:10:  cycle:764  throughoutput 23487778
+
+
+./cbf cores:1:  cycle:283  throughoutput 6339892
+./cbf cores:2:  cycle:354  throughoutput 10824868
+./cbf cores:3:  cycle:390  throughoutput 14139201
+./cbf cores:4:  cycle:397  throughoutput 19008418
+./cbf cores:5:  cycle:432  throughoutput 20941166
+./cbf cores:6:  cycle:467  throughoutput 23023661
+./cbf cores:7:  cycle:534  throughoutput 23500100
+./cbf cores:8:  cycle:610  throughoutput 23501791
+./cbf cores:9:  cycle:687  throughoutput 23502222
+./cbf cores:10:  cycle:763  throughoutput 23502558
+
+./cm cores:1:  cycle:331  throughoutput 5416872
+./cm cores:2:  cycle:511  throughoutput 7164940
+./cm cores:3:  cycle:556  throughoutput 9685279
+./cm cores:4:  cycle:578  throughoutput 12481916
+./cm cores:5:  cycle:594  throughoutput 15137006
+./cm cores:6:  cycle:606  throughoutput 17817563
+./cm cores:7:  cycle:616  throughoutput 20414197
+./cm cores:8:  cycle:635  throughoutput 22607712
+./cm cores:9:  cycle:689  throughoutput 23440200
+./cm cores:10:  cycle:763  throughoutput 23498905
+
+./cs cores:1:  cycle:322  throughoutput 5573220
+./cs cores:2:  cycle:407  throughoutput 9101993
+./cs cores:3:  cycle:452  throughoutput 11926354
+./cs cores:4:  cycle:466  throughoutput 15583302
+./cs cores:5:  cycle:485  throughoutput 18551163
+./cs cores:6:  cycle:497  throughoutput 21763190
+./cs cores:7:  cycle:535  throughoutput 23456413
+./cs cores:8:  cycle:611  throughoutput 23485848
+./cs cores:10:  cycle:764  throughoutput 23495425
+
+
+
+
+
+
+
+此时发包峰值23684493pps
+
+
+
+
+
+
+

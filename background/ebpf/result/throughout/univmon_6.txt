@@ -1,0 +1,20 @@
+univmon_6.py
+Reading dropcount
+0: 9080333 pkt/s
+0: 1797446 pkt/s
+0: 1809816 pkt/s
+0: 1800258 pkt/s
+0: 1788330 pkt/s
+0: 1794671 pkt/s
+0: 3747706 pkt/s
+0: 4013749 pkt/s
+0: 4050187 pkt/s
+0: 4094877 pkt/s
+0: 4099887 pkt/s
+0: 4101316 pkt/s
+0: 4115900 pkt/s
+0: 4117589 pkt/s
+0: 4120259 pkt/s
+9080333
+Removing filter from device
+========

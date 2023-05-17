@@ -1,0 +1,20 @@
+skv_7.py
+Reading dropcount
+0: 5917152 pkt/s
+0: 1172501 pkt/s
+0: 1183984 pkt/s
+0: 1178643 pkt/s
+0: 1180647 pkt/s
+0: 1183512 pkt/s
+0: 1803206 pkt/s
+0: 1865341 pkt/s
+0: 1879886 pkt/s
+0: 1876275 pkt/s
+0: 1879743 pkt/s
+0: 1867326 pkt/s
+0: 1879246 pkt/s
+0: 1874580 pkt/s
+0: 1879737 pkt/s
+5917152
+Removing filter from device
+========

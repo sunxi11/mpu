@@ -1,0 +1,20 @@
+counting-bloom-filter_2.py
+Reading dropcount
+0: 9815759 pkt/s
+0: 1961409 pkt/s
+0: 1957326 pkt/s
+0: 1958534 pkt/s
+0: 1946537 pkt/s
+0: 1943957 pkt/s
+0: 4610255 pkt/s
+0: 4610935 pkt/s
+0: 4830042 pkt/s
+0: 4831383 pkt/s
+0: 4849800 pkt/s
+0: 4901914 pkt/s
+0: 4929668 pkt/s
+0: 4932819 pkt/s
+0: 4872296 pkt/s
+9815759
+Removing filter from device
+========
